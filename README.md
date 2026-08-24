@@ -2,10 +2,11 @@
   <img src="/art/logo.gif" width="350" alt="PHP Insights">
   <img src="/art/preview.png" width="882" alt="PHP Insights Preview">
   <p align="center">
-    <a href="https://github.com/nunomaduro/phpinsights/actions/workflows/test.yaml"><img src="https://github.com/nunomaduro/phpinsights/actions/workflows/test.yaml/badge.svg" alt="Unit Tests"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/v/stable.svg" alt="Latest Version"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/license.svg" alt="License"></a>
+    <a href="https://github.com/Mohammed-Alama/phpinsights/actions/workflows/test.yaml"><img src="https://github.com/Mohammed-Alama/phpinsights/actions/workflows/test.yaml/badge.svg" alt="Unit Tests"></a>
+    <a href="https://github.com/Mohammed-Alama/phpinsights/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-success.svg" alt="License"></a>
+  </p>
+  <p align="center">
+    <strong>Community-maintained fork of <a href="https://github.com/nunomaduro/phpinsights">nunomaduro/phpinsights</a> — see the <a href="ROADMAP.md">maintenance roadmap</a>.</strong>
   </p>
   <p align="center">
     <strong>For full documentation, visit <a href="https://nunomaduro.github.io/phpinsights/">nunomaduro.github.io/phpinsights/</a></strong>.
@@ -28,7 +29,7 @@
 ### First, install:
 
 ```
-composer require nunomaduro/phpinsights --dev
+composer require mohammed-alama/phpinsights --dev
 ```
 
 ### Then, use it:
